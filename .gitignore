@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+cligoblin.egg-info/
+
+# Local state (we don't want to commit YOUR goblin's soul to git)
+.cligoblin/
+state.json
+
+# OS files
+.DS_Store
+Thumbs.db
