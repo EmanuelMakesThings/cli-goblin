@@ -1,6 +1,7 @@
 # 👹 cliGoblin v1.0.1
 
-> "Oh. You again. Took you long enough."
+<img width="396" height="236" alt="Screenshot 2026-01-07 142357" src="https://github.com/user-attachments/assets/59c0535f-b215-45fc-adc3-3de8ca49805e" />
+
 
 **cliGoblin** is a persistent "living" terminal pet. It runs as a CLI tool but maintains its own internal state (hunger, mood, health) that evolves over time, even when you aren't running it.
 
