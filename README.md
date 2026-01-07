@@ -1,9 +1,12 @@
-# 👹 cliGoblin
+# 👹 cliGoblin v1.0.1
 
-<img width="396" height="236" alt="Screenshot 2026-01-07 142357" src="https://github.com/user-attachments/assets/dc33380f-f054-44c3-becc-22f084e37cd8" />
-
+> "Oh. You again. Took you long enough."
 
 **cliGoblin** is a persistent "living" terminal pet. It runs as a CLI tool but maintains its own internal state (hunger, mood, health) that evolves over time, even when you aren't running it.
+
+### 🆕 What's New in v1.0.1
+*   **Art Fix:** The "Rust Crab" has been correctly identified as a **Rust Bunny**.
+*   **Full Release:** Stability improvements and documentation updates.
 
 ## 📦 Installation
 

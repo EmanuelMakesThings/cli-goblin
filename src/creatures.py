@@ -48,9 +48,9 @@ CREATURES = [
   """
     },
     {
-        "name": "Rust Crab",
+        "name": "Rust Bunny",
         "rarity": RARE,
-        "desc": "Extremely memory safe.",
+        "desc": "Fast and memory safe. Hoist the colors!",
         "art": r"""
     (\_/)
    (o.o)

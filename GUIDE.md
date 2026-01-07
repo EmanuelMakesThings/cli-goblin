@@ -44,7 +44,7 @@ Gobby isn't the only thing living in your terminal.
 *   **Rarity:**
     *   Common (50%): Glitch Bugs, Bash Worms
     *   Uncommon (30%): PySnakes, Lil' Daemons
-    *   Rare (15%): Rust Crabs
+    *   Rare (15%): Rust Bunnies
     *   Legendary (5%): Root Penguins
 *   **View Collection:** `cligoblin collection` (or `dex`)
 *   **Manage Collection:** Open `cligoblin menu` and select "Inventory". Here you can view details, see the art, and **rename** your creatures.
